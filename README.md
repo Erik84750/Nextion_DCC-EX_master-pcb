@@ -18,6 +18,7 @@ The gerber files are produced with Elecrow Design Rules constraints. These DRC's
   If you desire this output you need to specify your request to the manufacturer: aks for panelization of this pcb (2x 49x99mm pcb on one 100x100mm board).
 The result then is 20 pcb's for the cost of 1 USD plus shipping.
 
+
 4. DESCRIPTION:
 
   a. board version 5a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width), and ESP32 basic module
