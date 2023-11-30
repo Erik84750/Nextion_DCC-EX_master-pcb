@@ -15,7 +15,8 @@ The gerber files are produced with Elecrow Design Rules constraints. These DRC's
 3. Recommended is the PCB fab Elecrow: https://www.elecrow.com/
 
   This fab uses very low rates (1 USD for ten 100x100mm boards). The Nextion_DCC-EX_master pcb is designed to fit 2 of these pcb's on, one 100x100mm board.
-  If ou desire this output you need to specify your request to the manufacturer: aks for panelization of this pcb (2x 49x99mm pcb on one 100x100mm board).
+  If you desire this output you need to specify your request to the manufacturer: aks for panelization of this pcb (2x 49x99mm pcb on one 100x100mm board).
+The result then is 20 pcb's for the cost of 1 USD plus shipping.
 
 4. DESCRIPTION:
 
