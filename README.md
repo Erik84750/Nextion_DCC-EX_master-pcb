@@ -19,9 +19,9 @@ The gerber files are produced with Elecrow Design Rules constraints. These DRC's
 
 6. DESCRIPTION:
 
-  a. board version 5a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1 inch pin row width), and ESP32 basic module
+  a. board version 5a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width), and ESP32 basic module
 
-  b. board version 5b: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1 inch pin row width, and 23.5mm pin row width)
+  b. board version 5b: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width, and 23.5mm pin row width)
 
   c. board version 5c: valid for Pro Mini (and HC-12), ESP8266-12 NodeMCU and ESP32 basic module
 
