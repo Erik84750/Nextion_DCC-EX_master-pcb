@@ -33,4 +33,4 @@ The result then is 20 pcb's for the cost of 1 USD plus shipping.
 
   b. ESP32 basic module: https://tinyurl.com/mrbd2m5m and https://tinyurl.com/3mrma4hk
 
-  c. hardware required (connectors, pcb female pinheaders, ... :see BOM
+  c. hardware required (connectors, pcb female pinheaders, ... : see BOM
