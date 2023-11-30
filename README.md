@@ -3,6 +3,7 @@ PCB for Nextion-DCC-EX_enclosures
 
 1. INTRODUCTION
 
+
   a. this is a custom made pcb for the Nextion_DCC-EX enclosure series
 
   b. provided are the Gerber files and the schematic (pdf)
