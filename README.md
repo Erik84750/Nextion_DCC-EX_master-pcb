@@ -2,7 +2,9 @@
 PCB for Nextion-DCC-EX_enclosures
 
 1. INTRODUCTION
+
   a. this is a custom made pcb for the Nextion_DCC-EX enclosure series
+
   b. provided are the Gerber files and the schematic (pdf)
 
 2. GERBER
@@ -17,15 +19,15 @@ The gerber files are produced with Elecrow Design Rules constraints. These DRC's
 6. DESCRIPTION:
 
   a. board version 5a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1 inch pin row width), and ESP32 basic module
-  
+
   b. board version 5b: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1 inch pin row width, and 23.5mm pin row width)
-  
+
   c. board version 5c: valid for Pro Mini (and HC-12), ESP8266-12 NodeMCU and ESP32 basic module
 
 7. Hardware description:
 
   a. ESP8266 basic module: https://tinyurl.com/y2z66jum
-  
+
   b. ESP32 basic module: https://tinyurl.com/mrbd2m5m and https://tinyurl.com/3mrma4hk
-  
+
   c. hardware required (connectors, pcb female pinheaders, ... :see BOM
