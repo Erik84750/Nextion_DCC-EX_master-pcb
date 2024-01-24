@@ -1,8 +1,8 @@
 "Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
-"C1";"100µF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
-"C2";"100µF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
-"C3";"100µF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
-"C4";"100µF";"ELCOELCO2,5MMLEAD";"ELCO-2.5MMLEAD";"electrolytic capacitor 3.5mm lead";"";"";"";"";
+"C1";"100ÂµF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
+"C2";"100ÂµF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
+"C3";"100ÂµF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
+"C4";"100ÂµF";"ELCOELCO2,5MMLEAD";"ELCO-2.5MMLEAD";"electrolytic capacitor 3.5mm lead";"";"";"";"";
 "C5";"100nF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
 "C6";"100nF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
 "D1";"RB551V";"SCHOTTKY-DIODESOD323-ST";"SOD323_ST";"Schottky diode";"";"";"";"";
