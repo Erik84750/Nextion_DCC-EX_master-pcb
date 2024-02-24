@@ -12,7 +12,7 @@ PCB for Nextion-DCC-EX_enclosures
 
 2. GERBER
 
-The gerber files are produced with Elecrow Design Rules constraintsb(http://tinyurl.com/53mj2er3). These DRC's require a manufacturer capable of producing high quality prints.
+The gerber files are produced with Elecrow Design Rules constraints ( http://tinyurl.com/53mj2er3 ). These DRC's require a manufacturer capable of producing high quality prints.
 
 3. Recommended is the PCB fab Elecrow: https://www.elecrow.com/
 
