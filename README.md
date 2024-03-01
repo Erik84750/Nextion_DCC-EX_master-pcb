@@ -10,6 +10,8 @@ PCB for Nextion-DCC-EX_enclosures
 
   c. Upgrade from version 5x to verion 6x: allow more space for the rectifier heatsinks
 
+  d. VERY important: read the schematics in pdf for last minute modifications !!
+
 2. GERBER
 
 The gerber files are produced with Elecrow Design Rules constraints ( http://tinyurl.com/53mj2er3 ). These DRC's require a manufacturer capable of producing high quality prints.
