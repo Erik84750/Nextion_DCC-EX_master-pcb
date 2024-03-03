@@ -8,7 +8,7 @@ PCB for Nextion-DCC-EX_enclosures
 
   b. provided are the Gerber files and the schematic (pdf). Latest versions are v8a, v8b and v8c
 
-  c. Upgrade from version 5x to verion 6x: allow more space for the rectifier heatsinks
+  c. upgrade from versions 5 to verions 8: allow more space for the regulator heatsinks, remove level shifters, add FTDI plugin connector, corrections to ESP autoflash circuitry
 
   d. VERY important: read the schematics in pdf for last minute modifications !!
 
