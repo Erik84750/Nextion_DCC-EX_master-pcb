@@ -1,11 +1,11 @@
-Partlist exported from C:/Users/Erik Arckens/Google Drive/documents/Eagle/projects-Google-Drive/JMRI CMRI/JMRI_DCC_Nextion_controller/Nextion DCC controller_v7b.sch at 24/02/2024 7:20
+Partlist exported from C:/Users/Erik Arckens/Google Drive/documents/Eagle/projects-Google-Drive/JMRI CMRI/JMRI_DCC_Nextion_controller/Nextion DCC controller_v8b.sch at 24/02/2024 7:20
 
 Part Value                 Device                        Package                  Description                             MF    MPN        OC_FARNELL OC_NEWARK
 C1   100nF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
-C2   100µF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
-C3   100µF                 ELCOELCO2,5MMLEAD             ELCO-2.5MMLEAD           electrolytic capacitor 3.5mm lead                                            
-C4   100µF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
-C5   100µF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
+C2   100ÂµF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
+C3   100ÂµF                 ELCOELCO2,5MMLEAD             ELCO-2.5MMLEAD           electrolytic capacitor 3.5mm lead                                            
+C4   100ÂµF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
+C5   100ÂµF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
 C6   330pF                 CERAMIC-CAP                   1206                     ceramic capacitor leads 2.5mm and 5.5mm                                      
 D1   RB551V                SCHOTTKY-DIODESOD323-ST       SOD323_ST                Schottky diode                                                               
 D2   RB551V                SCHOTTKY-DIODESOD323-ST       SOD323_ST                Schottky diode                                                               
