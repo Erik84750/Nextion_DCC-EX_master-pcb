@@ -6,7 +6,7 @@ PCB for Nextion-DCC-EX_enclosures
 
   a. this is a custom made pcb for the Nextion_DCC-EX enclosure series
 
-  b. provided are the Gerber files and the schematic (pdf). latest versions are v8a, v8b and v8c
+  b. provided are the Gerber files and the schematic (pdf). Latest versions are v8a, v8b and v8c
 
   c. Upgrade from version 5x to verion 6x: allow more space for the rectifier heatsinks
 
