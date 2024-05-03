@@ -25,11 +25,11 @@ The result then is 20 pcb's for the cost of 1 USD plus shipping.
 
 4. DESCRIPTION:
 
-  a. board version 7a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width), and ESP32 basic module
+  a. board version 8a: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width), and ESP32 basic module
 
-  b. board version 7b: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width, and 23.5mm pin row width)
+  b. board version 8b: valid for Pro Mini (and HC-12), ESP8266-12 on basic module, ESP32 dev-kit (38pin, 1" pin row width, and 23.5mm pin row width)
 
-  c. board version 7c: valid for Pro Mini (and HC-12), ESP8266-12 NodeMCU and ESP32 basic module
+  c. board version 8c: valid for Pro Mini (and HC-12), ESP8266-12 NodeMCU and ESP32 basic module
 
 5. Hardware description:
 
